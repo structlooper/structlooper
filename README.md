@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/structlooper" target="blank"><img align="center"
-     src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp" alt="structlooper" height="50" width="50" /></a>
+     src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="structlooper" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/structlooper" target="blank"><img align="center" 
     src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="structlooper" height="100" width="100" /></a>
 <a href="https://fb.com/structlooper" target="blank"><img align="center"
