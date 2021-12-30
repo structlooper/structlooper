@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **NativeBasedAppGenerator**
 
-- 🌱 I’m currently learning **JavaScript frameworks i.e. React, React Native, Vue js**
+- 🌱 I’m currently learning **JavaScript frameworks i.e. React, React Native**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/structlooper?tab=repositories" target="blank"><img align="center"
     src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="structlooper" height="40" width="50" />Structlooper</a>
@@ -28,13 +28,13 @@ src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/structlooper" target="blank"><img align="center"
-     src="https://cliply.co/wp-content/uploads/2019/07/371907030_TWITTER_ICON_400px.gif" alt="structlooper" height="100" width="100" /></a>
+     src="https://structlooper.github.io/portfolio/assets/img/gifs/tweeter.gif" alt="structlooper" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/structlooper" target="blank"><img align="center" 
-    src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" alt="structlooper" height="100" width="100" /></a>
+    src="https://structlooper.github.io/portfolio/assets/img/gifs/linkedIn.gif" alt="structlooper" height="100" width="100" /></a>
 <a href="https://fb.com/structlooper" target="blank"><img align="center"
-     src="https://cliply.co/wp-content/uploads/2019/07/371907490_FACEBOOK_ICON_400px.gif" alt="structlooper"height="100" width="100" /></a>
+     src="https://structlooper.github.io/portfolio/assets/img/gifs/facebook.gif" alt="structlooper"height="100" width="100" /></a>
 <a href="https://instagram.com/structlooper" target="blank"><img align="center" 
-    src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif" alt="structlooper" height="100" width="100" /></a>
+    src="https://structlooper.github.io/portfolio/assets/img/gifs/insta.gif" alt="structlooper" height="100" width="100" /></a>
 </p>
 
 <h1 align="center">Skills Known</h1>
@@ -52,7 +52,6 @@ src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   
    
@@ -64,7 +63,7 @@ src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" 
     <a href="https://www.android.com/intl/en_in/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 </p>
-<h3>Other</h3>
+<h3>Others</h3>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
