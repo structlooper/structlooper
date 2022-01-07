@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=structlooper&label=Profile%20views&color=0e75b6&style=flat" alt="structlooper" /> </p>
 
+[comment]: <> (This is a comment, it will not be included)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=structlooper" alt="structlooper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/structlooper" target="blank"><img src="https://img.shields.io/twitter/follow/structlooper?logo=twitter&style=for-the-badge" alt="structlooper" /></a> </p>
