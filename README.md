@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=structlooper&label=Profile%20views&color=0e75b6&style=flat" alt="structlooper" /> </p>
 
-[comment]: <> (This is a comment, it will not be included)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=structlooper" alt="structlooper" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/structlooper" target="blank"><img src="https://img.shields.io/twitter/follow/structlooper?logo=twitter&style=for-the-badge" alt="structlooper" /></a> </p>
 
@@ -74,13 +72,15 @@ src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" 
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/structlooper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="let's drink" /></a></p><br><br><br>
+<br><br><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=structlooper&show_icons=true&locale=en&layout=compact" alt="structlooper" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=structlooper&show_icons=true&locale=en" alt="structlooper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=structlooper&" alt="structlooper" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=structlooper&" alt="structlooper" /></p><br><br>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/structlooper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="let's drink" /></a></p>
 
