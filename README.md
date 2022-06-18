@@ -6,26 +6,26 @@
 
 <p align="left"> <a href="https://twitter.com/structlooper" target="blank"><img src="https://img.shields.io/twitter/follow/structlooper?logo=twitter&style=for-the-badge" alt="structlooper" /></a> </p>
 
-- 🔭 I’m currently working on **NativeBasedAppGenerator**
+[//]: <> (- 🔭 I’m currently working on **NativeBasedAppGenerator**)
 
-- 🌱 I’m currently learning **JavaScript frameworks i.e. React, React Native**
+- 📝 Quick reach me <a href="https://www.google.com/search?q=structlooper" target="blank"><img align="center"
+    src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_google_icon_143197.png" alt="structlooper" height="40" width="40" />Structlooper</a>
+- 🌱 I’m currently learning **Java frameworks i.e. Spring Boot, Etc**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/structlooper?tab=repositories" target="blank"><img align="center"
     src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="structlooper" height="40" width="50" />Structlooper</a>
 
-- 📝 Quick reach me <a href="https://www.google.com/search?q=structlooper" target="blank"><img align="center"
-    src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_google_icon_143197.png" alt="structlooper" height="40" width="40" />Structlooper</a>
 
-- 💬 Ask me about **PHP, Laravel, JavaScript, react,**
+- 💬 Ask me about **PHP, Laravel, JavaScript, React, React Native.**
 
-- 📫 How to reach me <img align="center"
+- 📫 Inbox me: <img align="center"
 src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" height="40" width="40" />**Structlooper@gmil.com**
 
-- 📄 Know about my experiences <a href="https://in.linkedin.com/in/structlooper" target="blank"><img align="center"
+- 📄 Professional details: <a href="https://in.linkedin.com/in/structlooper" target="blank"><img align="center"
     src="https://elionetwork.com/wp-content/uploads/2019/01/linkedin-color-icon-linkedin-linked-in-png-and-vector-linkedin-png-640_640.png" alt="structlooper" height="40" width="40" />Structlooper</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Social Media Connections.........</h3>
+<p align="right">
 <a href="https://twitter.com/structlooper" target="blank"><img align="center"
      src="https://structlooper.github.io/portfolio/assets/img/gifs/tweeter.gif" alt="structlooper" height="100" width="100" /></a>
 <a href="https://linkedin.com/in/structlooper" target="blank"><img align="center" 
