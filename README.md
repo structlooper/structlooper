@@ -28,29 +28,29 @@
         <img src="https://raw.githubusercontent.com/structlooper/structlooper/main/includes/icons/react-native.png" 
         alt="rn" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
+    <a href="https://redux.js.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+        alt="redux" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
+    </a>
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" 
         alt="rn" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
-    </a>
-    <a href="https://www.php.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" 
-        alt="PHP" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
-    </a>
-    <a href="https://nodejs.org/en/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-        alt="Nodejs" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
     <a href="https://www.java.com/en/" target="_blank">
         <img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" 
         alt="java" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
-        alt="firebase" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
-    </a>
     <a href="https://spring.io/" target="_blank">
         <img src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" 
         alt="springBoot" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+        alt="Nodejs" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
+        alt="firebase" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
@@ -59,10 +59,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
         alt="css3" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
-    </a>
-    <a href="https://redux.js.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-        alt="redux" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
@@ -83,6 +79,10 @@
     <a href="https://postman.com" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
         alt="postman" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
+    </a>
+    <a href="https://www.php.net" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" 
+        alt="PHP" width="50" height="50" style="border-radius: 100px; background: #fff; padding: 5px"/> 
     </a>
     <a href="https://laravel.com/" target="_blank">
         <img src="https://laravel.com/img/logotype.min.svg" 
