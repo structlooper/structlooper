@@ -9,12 +9,10 @@
 
 - 💬 👨‍💻 Ask me about JavaScript, React, React Native, NextJS.
 
-- 📝 Quick reach me <a href="https://www.google.com/search?q=structlooper" target="blank"><img align="center"
-    src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_google_icon_143197.png" alt="structlooper" height="40" width="40" />Structlooper</a>
+- 📝 Quick reach me **google** : <a href="https://www.google.com/search?q=structlooper" target="blank">Structlooper</a>
 - 🌱 I’m currently giving **Mobile & Web Solutions**
 
-- 📫 Inbox me: <img align="center"
-src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="structlooper" height="40" width="40" />**Structlooper@gmil.com**
+- 📫 Inbox me: [Structlooper@gmil.com](mailto:Structlooper@gmil.com)
 
 <h1 align="center">Skills Known</h1>
 <p align="center">
